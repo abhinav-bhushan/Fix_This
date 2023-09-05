@@ -1,7 +1,7 @@
-Fix_This (Abhinav Branch)\
-Backend project for Mobile and laptop repairing with Golang .\
+# Fix_This (Abhinav Branch)
+Backend project for Mobile and laptop repairing with Golang 
 
-Requirements\
+Requirements
 -User has to be registered on the site.\
 -Service Provider has to be registered in the system
 -User has to give details about his mobile including the problem that the mobile/Laptop has.\
